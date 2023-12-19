@@ -1,2 +1,2 @@
 # SudokuX
-Parallel 9x9 Sudoku solver using backtracking CSP solver and algorithm X.
+Parallel 9x9 Sudoku solver using algorithm X and backtracking.
